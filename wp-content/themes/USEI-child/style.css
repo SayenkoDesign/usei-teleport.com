@@ -1,0 +1,14 @@
+/*
+Theme Name: USEI Child
+Description: Child theme for the USEI Theme
+Author: Sayenko Design
+
+Author URI: http://sayenkodesign.com
+Template: USEI
+/*   
+
+
+.header.affix .navbar-brand {
+    padding-top: 2px;
+}
+

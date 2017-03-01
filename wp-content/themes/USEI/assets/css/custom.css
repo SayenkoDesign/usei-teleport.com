@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CUSTOM CSS Document */
+/* ==================================================================
+	COLOR SCHEMES
+================================================================== */
+
+.portfolio-container.image-hover-red .portfolio-item:hover .portfolio-image:after,
+.magnifier {
+    background: rgb(217, 0, 0);
+    background: rgba(217, 0, 0, 0.9);
+}
+.widget-title span,
+a:hover,
+a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.widget a:hover,
+.media-body a,
+.widget .media-body span a,
+.breadcrumb a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover,
+.stats i,
+.service-box.noborder:hover h3,
+.color-red {
+    color: #d90000;
+}
+.service-box:hover {
+    border-bottom-color: #d90000;
+}
+.portfolio-filtering a.active:after {
+    border-top-color: #d90000;
+}
+.portfolio-filtering a.active:before {
+    border-top-color: #d90000;
+}
+.tags-widget a:hover,
+.navbar-toggle,
+.form-control:focus,
+.btn-primary,
+.box-red,
+.pricing-table.premium .btn,
+.pricing-table.premium .pricing-icon-container,
+.tabs-left > .nav-tabs > li:hover,
+.tabs-left > .nav-tabs > li:active,
+.tabs-left > .nav-tabs > li.active,
+.service-box.noborder:hover .icon-container {
+    border-color: #d90000;
+}
+.post-media .icon-container,
+.navbar-toggle,
+.red-section,
+.fixed:hover,
+.btn-primary,
+.footer-social-icons .icon-container,
+.box-red,
+.pricing-table.premium .btn,
+.pricing-table.premium .pricing-icon-container,
+.portfolio-filtering a.active,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.tabs-left > .nav-tabs > li:active,
+.tabs-left > .nav-tabs > li.active,
+.tabs-left > .nav-tabs > li:hover,
+.service-box:hover .icon-container {
+    background-color: #d90000;
+}
+.tagcloud a:hover {
+    border-color: #d90000;
+}
+.wpcf7-form-control-wrap .wpcf7-form-control.wpcf7-text:focus {
+    border-color: #d90000 !important;
+}
+.btn.btn-primary {
+    background-color: #d90000;
+    border-color: #d90000;
+}
+.portfolio-filtering a.active:after {
+    border-color: rgba(217, 0, 0, 0);
+    border-top-color: #d90000;
+}
+.portfolio-filtering a.active:before {
+    border-color: rgba(217, 0, 0, 0);
+    border-top-color: #d90000;
+}
+
+.box{
+    background-color:#dd3333;
+    border-color:#dd3333;
+}
