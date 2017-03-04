@@ -19378,3 +19378,30 @@ ul.nav li:hover > ul.dropdown-menu {display:none;}
 #parallax4 {background: rgba(0, 0, 0, 0) url("http://usei-teleport.com/demo/wp-content/uploads/2015/08/Vernon-Valley-banner-footer-narrow.jpg") no-repeat scroll 0 0 / 100% 260px !important;}
 .slider_02, .tp-caption.slider_02 {font-size: 18px !important;}
 }
+
+#home-first .container,
+#home-second .container {
+    width: auto;
+}
+
+#home-first .so-widget-image {
+    max-width: none;
+    width: 100%;
+}
+#home-first .sow-features-feature.main-title,
+#home-first .sow-features-list {
+    width: 100%;
+}
+#home-first .service-text {
+    padding-top: 120px;
+}
+
+#home-second .section {
+    background-color: transparent;
+}
+#home-second .grey-shape {
+    display: none;
+}
+#home-second .sow-features-list {
+    margin: 0 -15px;
+}

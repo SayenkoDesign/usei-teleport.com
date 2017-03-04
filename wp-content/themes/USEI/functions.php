@@ -144,7 +144,7 @@ function lenard_load_theme_assets() {
         wp_enqueue_style('owl-carousel', get_template_directory_uri().'/assets/css/owl-carousel.css');
         wp_enqueue_style('animate', get_template_directory_uri().'/assets/css/animate.min.css');
         wp_enqueue_style('settings', get_template_directory_uri().'/assets/rs-plugin/css/settings.css');        
-        wp_enqueue_style('main', get_stylesheet_directory_uri().'/style.css');  
+        wp_enqueue_style('main', get_stylesheet_directory_uri().'/style.css', [], "4.7.3");
         wp_enqueue_style('custom', get_template_directory_uri().'/assets/css/custom.css');    
    
    // Enqueue all the js files of theme
