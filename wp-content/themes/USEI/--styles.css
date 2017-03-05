@@ -4797,7 +4797,7 @@ img.page-header-section {
 
 #field_1_4 .ginput_container select::-ms-expand {display: none !important;}
 #field_1_4 .ginput_container select {height:33px; text-shadow:none !important; color:#444 !important; position: absolute !important;top: -2px !important;left: -2px !important;border:2px solid #d1d1d1 !important; -webkit-appearance: none !important ; -moz-appearance:none !important; appearance: none !important; -ms-appearance: none !important ; padding: 2px 30px 2px 2px; border: none;
-background:#fff url("http://usei-teleport.com/demo/wp-content/uploads/2015/08/select-arrow-dashed.png") no-repeat right center !important; 
+background:#fff url("http://usei-teleport.com/wp-content/uploads/2015/08/select-arrow-dashed.png") no-repeat right center !important;
 z-index:999px !important;}
 
 */
@@ -4813,7 +4813,7 @@ z-index:999px !important;}
 .copyrights .btn-lg:hover {background:#d90000 !important; color:#fff !important;}
 .copyrights a {color:#8486dd !important;}
 .copyrights a:hover {color:#8486dd;}
-#parallax4 {background: url(http://usei-teleport.com/demo/wp-content/uploads/2015/08/Vernon-Valley-banner-footer-narrow.jpg) !important; background-size:100% !important;}
+#parallax4 {background: url(http://usei-teleport.com/wp-content/uploads/2015/08/Vernon-Valley-banner-footer-narrow.jpg) !important; background-size:100% !important;}
 
 .top_label input[type="submit"] {width:auto !important; background:#d90000 !important; padding:12px 32px !important; font-size:12px !important; color:#fff !important; text-transform:uppercase; font-family:"Lato",serif; border:0 none; font-weight:bold; }
 .home .sow-services-service .noborder .text-center a {width:100%; display:block;  text-align:center;}
